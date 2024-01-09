@@ -3,7 +3,7 @@ A basic Pomodoro timer that can be run from the command line written in C++
 
 **Reason for Creating**
 
-I decided to create a Pomodoro timer to run in the terminal as I was inspired by my incredibly smart friend [Seb Strug](https://www.sebstrug.com), who created a [command line Pomodoro timer in Rust](https://www.sebstrug.com/code/pomodoro/) As my work operating system is Ubuntu and use the command line and so terminals frequently, I felt inspired to write my own program to be used in the terminal, but in C++. I chose C++ as the programming language as at the time of writing this, I am developing firmware in C++, and as the vast majority of my programming is for embedded development, I wanted to write a program not intended for embedded use, regardless of how simple it is.
+I decided to create a Pomodoro timer to run in the terminal as I was inspired by my incredibly smart friend [Seb Strug](https://www.sebstrug.com), who created a [command line Pomodoro timer in Rust](https://www.sebstrug.com/code/pomodoro/). As my work operating system is Ubuntu and use the command line and so terminals frequently, I felt inspired to write my own program to be used in the terminal, but in C++. I chose C++ as the programming language as at the time of writing this, I am developing firmware in C++, and as the vast majority of my programming is for embedded development, I wanted to write a program not intended for embedded use, regardless of how simple it is.
 
 **What is a Pomodoro Timer?**
 
